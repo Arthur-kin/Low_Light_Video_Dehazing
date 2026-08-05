@@ -1,4 +1,4 @@
-#  Blackvideo Dehazing (Low-Light Image Enhancement)
+# Low_Light_Video_Dehazing
 
 This project is a MATLAB implementation that utilizes **Dehazing** algorithms to enhance **Low-Light Images**.
 
